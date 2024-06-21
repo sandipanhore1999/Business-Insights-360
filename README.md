@@ -9,6 +9,7 @@ https://app.powerbi.com/groups/me/reports/d0151c63-f9f8-4a75-8640-c5b90c41ac03/7
 
 Tech stacks
 -SQL
+
 -PowerBi Desktop
 -Excel
 -DAX language

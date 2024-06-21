@@ -7,7 +7,7 @@ Live Dashboard Link:
 https://app.powerbi.com/groups/me/reports/d0151c63-f9f8-4a75-8640-c5b90c41ac03/756a7032bab2ea26b5b7?experience=power-bi
 
 
-Tech stacks
+Tech Stack
 
 -SQL
 
